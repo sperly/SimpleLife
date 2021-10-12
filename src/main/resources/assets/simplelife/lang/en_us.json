@@ -1,0 +1,18 @@
+{
+  "advancements.first_sunstone.descr": "You found your first sunstone!",
+  "block.simplelife.sunstone_block": "Sunstone Block",
+  "itemGroup.tabsimple_life": "Simple Life",
+  "item.simplelife.charged_sunstone": "Charged Sunstone",
+  "item.simplelife.iron_dust": "Iron Dust",
+  "block.simplelife.charged_sunstone_block": "Charged Sunstone Block",
+  "item.simplelife.sunstone": "Sunstone",
+  "block.simplelife.solar_furnace": "Solar Furnace",
+  "block.simplelife.solar_grinder": "Solar Grinder",
+  "item.simplelife.solar_cell": "Solar Cell",
+  "item.simplelife.gold_dust": "Gold Dust",
+  "block.simplelife.sunstone_ore": "Sunstone Ore",
+  "item.simplelife.solar_upgrade_base": "Solar Upgrade Base",
+  "advancements.first_sunstone.title": "First Sunstone",
+  "item.simplelife.solar_upgrade_level_1": "Solar Upgrade Level 1",
+  "block.simplelife.solar_harvester": "Solar Harvester"
+}

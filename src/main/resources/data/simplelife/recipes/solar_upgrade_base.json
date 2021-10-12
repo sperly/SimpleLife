@@ -1,0 +1,42 @@
+{
+  "group": "simplelife",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "simplelife:sunstone"
+    },
+    "1": {
+      "item": "minecraft:iron_ingot"
+    },
+    "2": {
+      "item": "simplelife:sunstone"
+    },
+    "3": {
+      "item": "minecraft:iron_ingot"
+    },
+    "4": {
+      "item": "minecraft:redstone_block"
+    },
+    "5": {
+      "item": "minecraft:iron_ingot"
+    },
+    "6": {
+      "item": "simplelife:sunstone"
+    },
+    "7": {
+      "item": "minecraft:iron_ingot"
+    },
+    "8": {
+      "item": "simplelife:sunstone"
+    }
+  },
+  "result": {
+    "item": "simplelife:solar_upgrade_base",
+    "count": 4
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "simplelife:block/solar_grinder"
+    },
+    "facing=east": {
+      "model": "simplelife:block/solar_grinder",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "simplelife:block/solar_grinder",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "simplelife:block/solar_grinder",
+      "y": 270
+    }
+  }
+}

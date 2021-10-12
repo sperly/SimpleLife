@@ -1,0 +1,12 @@
+{
+  "group": "simplelife",
+  "type": "minecraft:smelting",
+  "experience": 4,
+  "cookingtime": 800,
+  "ingredient": {
+    "item": "simplelife:solar_upgrade_base"
+  },
+  "result": {
+    "item": "simplelife:solar_grinder"
+  }
+}

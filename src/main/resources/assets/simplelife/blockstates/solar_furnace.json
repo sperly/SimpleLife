@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "simplelife:block/solar_furnace"
+    },
+    "facing=east": {
+      "model": "simplelife:block/solar_furnace",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "simplelife:block/solar_furnace",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "simplelife:block/solar_furnace",
+      "y": 270
+    }
+  }
+}

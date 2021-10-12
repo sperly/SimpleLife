@@ -1,0 +1,42 @@
+{
+  "group": "simplelife",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:stone"
+    },
+    "1": {
+      "item": "simplelife:solar_cell"
+    },
+    "2": {
+      "tag": "forge:stone"
+    },
+    "3": {
+      "tag": "forge:stone"
+    },
+    "4": {
+      "item": "minecraft:furnace"
+    },
+    "5": {
+      "tag": "forge:stone"
+    },
+    "6": {
+      "item": "minecraft:iron_ingot"
+    },
+    "7": {
+      "item": "minecraft:iron_ingot"
+    },
+    "8": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "simplelife:solar_furnace",
+    "count": 1
+  }
+}

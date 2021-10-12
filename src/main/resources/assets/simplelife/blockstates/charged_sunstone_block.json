@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "simplelife:block/charged_sunstone_block"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "simplelife:block/sunstone_block"
+    }
+  }
+}

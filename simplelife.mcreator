@@ -1,0 +1,344 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "SolarCell",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_cell"
+    },
+    {
+      "name": "SimpleLife",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "simple_life"
+    },
+    {
+      "name": "Sunstone",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sunstone"
+    },
+    {
+      "name": "SolarFurnaceGUI",
+      "type": "gui",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_furnace_gui"
+    },
+    {
+      "name": "SolarFurnaceUpdateTick",
+      "type": "procedure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_furnace_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SolarFurnace",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_furnace"
+    },
+    {
+      "name": "SunstoneOre",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sunstone_ore"
+    },
+    {
+      "name": "SunstoneOreLoot",
+      "type": "loottable",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sunstone_ore_loot"
+    },
+    {
+      "name": "SolarGrinder",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_grinder"
+    },
+    {
+      "name": "SolarCellRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_cell_recipe"
+    },
+    {
+      "name": "SolarFurnaceRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_furnace_recipe"
+    },
+    {
+      "name": "FirstSunstone",
+      "type": "achievement",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "first_sunstone"
+    },
+    {
+      "name": "SolarFurnaceUpgradeSlotChanged",
+      "type": "procedure",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_furnace_upgrade_slot_changed",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "IronDust",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_dust"
+    },
+    {
+      "name": "GoldDust",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_dust"
+    },
+    {
+      "name": "ChargedSunstone",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "charged_sunstone"
+    },
+    {
+      "name": "SolarUpgradeLevel1",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_upgrade_level_1"
+    },
+    {
+      "name": "ChargedSunstoneBlock",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "charged_sunstone_block"
+    },
+    {
+      "name": "SunstoneBlockRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sunstone_block_recipe"
+    },
+    {
+      "name": "SunstoneBlock",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sunstone_block"
+    },
+    {
+      "name": "SolarUpgradeBase",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_upgrade_base"
+    },
+    {
+      "name": "SolarUpgradeBaseRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_upgrade_base_recipe"
+    },
+    {
+      "name": "SolarUpgradeLevel1Recipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_upgrade_level_1_recipe"
+    },
+    {
+      "name": "ChargedSunstoneBlockRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "charged_sunstone_block_recipe"
+    },
+    {
+      "name": "SolarGrinderRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_grinder_recipe"
+    },
+    {
+      "name": "SolarHarvesterGUI",
+      "type": "gui",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_harvester_gui"
+    },
+    {
+      "name": "SolarHarvester",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_harvester"
+    },
+    {
+      "name": "SolarHarvesterUpdateTick",
+      "type": "procedure",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_harvester_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "advancements.first_sunstone.descr": "You found your first sunstone!",
+      "block.simplelife.sunstone_block": "Sunstone Block",
+      "itemGroup.tabsimple_life": "Simple Life",
+      "item.simplelife.charged_sunstone": "Charged Sunstone",
+      "item.simplelife.iron_dust": "Iron Dust",
+      "block.simplelife.charged_sunstone_block": "Charged Sunstone Block",
+      "item.simplelife.sunstone": "Sunstone",
+      "block.simplelife.solar_furnace": "Solar Furnace",
+      "block.simplelife.solar_grinder": "Solar Grinder",
+      "item.simplelife.solar_cell": "Solar Cell",
+      "item.simplelife.gold_dust": "Gold Dust",
+      "block.simplelife.sunstone_ore": "Sunstone Ore",
+      "item.simplelife.solar_upgrade_base": "Solar Upgrade Base",
+      "advancements.first_sunstone.title": "First Sunstone",
+      "item.simplelife.solar_upgrade_level_1": "Solar Upgrade Level 1",
+      "block.simplelife.solar_harvester": "Solar Harvester"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "simplelife",
+    "modName": "SimpleLife",
+    "version": "1.0.0",
+    "author": "ericr, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.sperly.simplelife",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

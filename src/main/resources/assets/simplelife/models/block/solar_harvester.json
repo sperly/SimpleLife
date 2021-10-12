@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "simplelife:blocks/solar_machine_template_front",
+    "up": "simplelife:blocks/solar_machine_top",
+    "north": "simplelife:blocks/solar_harvester_back_off",
+    "east": "simplelife:blocks/solar_machine_side",
+    "south": "simplelife:blocks/solar_machine_side",
+    "west": "simplelife:blocks/solar_machine_side",
+    "particle": "simplelife:blocks/solar_machine_template_front"
+  }
+}

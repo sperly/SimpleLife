@@ -1,0 +1,37 @@
+{
+  "group": "simplelife",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "simplelife:sunstone"
+    },
+    {
+      "item": "simplelife:sunstone"
+    },
+    {
+      "item": "simplelife:sunstone"
+    },
+    {
+      "item": "simplelife:sunstone"
+    },
+    {
+      "item": "simplelife:sunstone"
+    },
+    {
+      "item": "simplelife:sunstone"
+    },
+    {
+      "item": "simplelife:sunstone"
+    },
+    {
+      "item": "simplelife:sunstone"
+    },
+    {
+      "item": "simplelife:sunstone"
+    }
+  ],
+  "result": {
+    "item": "simplelife:sunstone_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "simplelife",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "simplelife:charged_sunstone"
+    },
+    "1": {
+      "item": "simplelife:charged_sunstone"
+    },
+    "2": {
+      "item": "simplelife:charged_sunstone"
+    },
+    "3": {
+      "item": "simplelife:charged_sunstone"
+    },
+    "4": {
+      "item": "simplelife:charged_sunstone"
+    },
+    "5": {
+      "item": "simplelife:charged_sunstone"
+    },
+    "6": {
+      "item": "simplelife:charged_sunstone"
+    },
+    "7": {
+      "item": "simplelife:charged_sunstone"
+    },
+    "8": {
+      "item": "simplelife:charged_sunstone"
+    }
+  },
+  "result": {
+    "item": "simplelife:charged_sunstone_block",
+    "count": 1
+  }
+}

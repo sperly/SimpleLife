@@ -1,0 +1,42 @@
+{
+  "group": "simplelife",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "simplelife:sunstone"
+    },
+    "1": {
+      "item": "minecraft:redstone"
+    },
+    "2": {
+      "item": "simplelife:sunstone"
+    },
+    "3": {
+      "item": "simplelife:sunstone"
+    },
+    "4": {
+      "item": "minecraft:redstone"
+    },
+    "5": {
+      "item": "simplelife:sunstone"
+    },
+    "6": {
+      "tag": "forge:stone"
+    },
+    "7": {
+      "tag": "forge:stone"
+    },
+    "8": {
+      "tag": "forge:stone"
+    }
+  },
+  "result": {
+    "item": "simplelife:solar_cell",
+    "count": 1
+  }
+}
