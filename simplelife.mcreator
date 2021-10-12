@@ -295,6 +295,27 @@
           }
         ]
       }
+    },
+    {
+      "name": "SolarGrinderGUI",
+      "type": "gui",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_grinder_gui"
+    },
+    {
+      "name": "SolarGrinderUpdateTick",
+      "type": "procedure",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solar_grinder_update_tick",
+      "metadata": {
+        "dependencies": []
+      }
     }
   ],
   "variable_elements": [],
