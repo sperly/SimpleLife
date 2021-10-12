@@ -1,14 +1,14 @@
 modLoader="javafml"
 loaderVersion="[36,)"
-license="Academic Free License v3.0"
+license="MIT License"
 
 [[mods]]
 modId="simplelife"
 version="1.0.0"
 displayName="SimpleLife"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
-displayURL="https://mcreator.net"
-authors="ericr, MCreator"
+displayURL="https://github.com/sperly/SimpleLife"
+authors="sperly, MCreator"
 
 [[dependencies.simplelife]]
     modId="minecraft"

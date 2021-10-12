@@ -316,9 +316,34 @@
       "metadata": {
         "dependencies": []
       }
+    },
+    {
+      "name": "SimpleLifeConfig",
+      "type": "procedure",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "simple_life_config",
+      "metadata": {
+        "dependencies": []
+      }
     }
   ],
-  "variable_elements": [],
+  "variable_elements": [
+    {
+      "name": "SolarFurnaceBlockstate",
+      "type": "blockstate",
+      "scope": "map",
+      "value": "Blocks.AIR.getDefaultState()"
+    },
+    {
+      "name": "ConfigFile",
+      "type": "file",
+      "scope": "global",
+      "value": "new File(\"\")"
+    }
+  ],
   "sound_elements": [],
   "language_map": {
     "en_us": {
@@ -348,9 +373,9 @@
     "modid": "simplelife",
     "modName": "SimpleLife",
     "version": "1.0.0",
-    "author": "ericr, MCreator",
-    "websiteURL": "https://mcreator.net",
-    "license": "Academic Free License v3.0",
+    "author": "sperly, MCreator",
+    "websiteURL": "https://github.com/sperly/SimpleLife",
+    "license": "MIT License",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],
@@ -358,6 +383,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.sperly.simplelife",
     "lockBaseModFiles": false
   },
