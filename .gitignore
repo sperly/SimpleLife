@@ -1,6 +1,13 @@
 .gradle
+.classpath
+.project
 /build/
 /run/
+/.settings/
+/.mcreator/
+/gradle/
+gradlew*
+mcreator.gradle
 
 # Ignore Gradle GUI config
 gradle-app.setting
